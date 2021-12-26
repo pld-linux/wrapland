@@ -11,7 +11,7 @@ License:	LGPL v2.1+
 Group:		X11/Libraries
 Source0:	https://gitlab.com/kwinft/%{kpname}/-/archive/%{kpname}@%{version}/%{name}-%{name}@%{version}.tar.bz2
 # Source0-md5:	2f9c21645be7a8e968afd00abf25f92e
-URL:		http://www.kde.org/
+URL:		https://gitlab.com/kwinft/wrapland
 BuildRequires:	EGL-devel
 BuildRequires:	Qt5Concurrent-devel
 BuildRequires:	Qt5Gui-devel
